@@ -35,6 +35,6 @@ C_3    +1
 
 ## 软件截图   
 --------
-<img src="FASTA/fasta_1.jpg">
-<img src="FASTA/fasta_2.jpg">
-<img src="FASTA/fasta_3.jpg">
+<img src="fasta_1.jpg">
+<img src="fasta_2.jpg">
+<img src="fasta_3.jpg">
