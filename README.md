@@ -2,7 +2,7 @@
 生物信息FASTA算法 
 
 FASTA程序是第一个广泛使用的数据库相似性程序。  
-## 目的：找到s串和t串相似度最高的序列  
+目的：找到s串和t串相似度最高的序列  
 
 ## 基本思路： 
 将序列分成k个大小的短序列片段，成为k-tuple  
@@ -34,7 +34,7 @@ C_3    +1
 最后打印所有最大位移下，s与t串相同字符串的序列  
 
 ## 软件截图   
-![k=1时](FASTA/fasta_1.jpg)
-![k=2时](FASTA/fasta_2.jpg)
-![k=3时](FASTA/fasta_3.jpg)
-
+--------
+<img src="FASTA/fasta_1.jpg">
+<img src="FASTA/fasta_2.jpg">
+<img src="FASTA/fasta_3.jpg">
